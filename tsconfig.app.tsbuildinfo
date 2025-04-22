@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/App.vue","./src/components/AboutSection.vue","./src/components/FooterSection.vue","./src/components/GhostParticles.vue","./src/components/HelloWorld.vue","./src/components/HeroSection.vue","./src/components/StakingSection.vue"],"errors":true,"version":"5.8.3"}
